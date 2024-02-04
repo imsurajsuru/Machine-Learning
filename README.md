@@ -1,6 +1,9 @@
 **Files:**
+
 Telco_Customer_Churn.csv: Dataset containing customer information and churn status.
+
 Telecom-Customer-Churn-Prediction-Supervised-Learning-End-To-End.ipynb: Jupyter Notebook for exploring data, building and evaluating machine learning models.
+
 churn_app.py: Python script building a web application for interactive churn prediction.
 churn_main.py: Python script for running the trained model and making predictions.
 random_forest_model.joblib: Saved Random Forest model file for prediction.
